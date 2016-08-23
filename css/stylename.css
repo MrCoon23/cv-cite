@@ -1,0 +1,30 @@
+/* font-family: "Promenade_de_la_Croisette_Regular"; */
+@font-face {
+    font-family: "Promenade_de_la_Croisette_Regular";
+    src: url("../fonts/Promenade/Promenade_de_la_Croisette_Regular.eot");
+    src: url("../fonts/Promenade/Promenade_de_la_Croisette_Regular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Promenade/Promenade_de_la_Croisette_Regular.woff") format("woff"),
+    url("../fonts/Promenade/Promenade_de_la_Croisette_Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "Champagne_Limousines"; */
+@font-face {
+    font-family: "Champagne_Limousines";
+    src: url("../fonts/Champagne_Limousines/Champagne_Limousines.eot");
+    src: url("../fonts/Champagne_Limousines/Champagne_Limousines.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Champagne_Limousines/Champagne_Limousines.woff") format("woff"),
+    url("../fonts/Champagne_Limousines/Champagne_Limousines.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "Exo_Regular"; */
+@font-face {
+    font-family: "Exo_Regular";
+    src: url("../fonts/Exo_Regular/Exo-Regular.eot");
+    src: url("../fonts/Exo_Regular/Exo-Regular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Exo_Regular/Exo-Regular.woff") format("woff"),
+    url("../fonts/Exo_Regular/Exo-Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
